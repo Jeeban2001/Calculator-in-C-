@@ -1,0 +1,8 @@
+C:\Users\jjnay\OneDrive\Documents\Work\day 13\Calculator3\Calculator3\bin\Debug\Calculator3.exe.config
+C:\Users\jjnay\OneDrive\Documents\Work\day 13\Calculator3\Calculator3\bin\Debug\Calculator3.exe
+C:\Users\jjnay\OneDrive\Documents\Work\day 13\Calculator3\Calculator3\bin\Debug\Calculator3.pdb
+C:\Users\jjnay\OneDrive\Documents\Work\day 13\Calculator3\Calculator3\obj\Debug\Calculator3.csproj.AssemblyReference.cache
+C:\Users\jjnay\OneDrive\Documents\Work\day 13\Calculator3\Calculator3\obj\Debug\Calculator3.csproj.SuggestedBindingRedirects.cache
+C:\Users\jjnay\OneDrive\Documents\Work\day 13\Calculator3\Calculator3\obj\Debug\Calculator3.csproj.CoreCompileInputs.cache
+C:\Users\jjnay\OneDrive\Documents\Work\day 13\Calculator3\Calculator3\obj\Debug\Calculator3.exe
+C:\Users\jjnay\OneDrive\Documents\Work\day 13\Calculator3\Calculator3\obj\Debug\Calculator3.pdb
